@@ -53,10 +53,7 @@ Boardgames I currently own
 ## 16. [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic)
 ![](https://cf.geekdo-images.com/imagepage/img/yjNhNCJAOkuAwSnMtr-o5aABgGA=/fit-in/900x600/filters:no_upscale()/pic300647.jpg)
 
-## 17. [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
-![](https://cf.geekdo-images.com/imagepage/img/87g2sg-5UVxKwlB6NToeFVNjh3U=/fit-in/900x600/filters:no_upscale()/pic2616052.jpg)
-
-## 18. [Suburbia](https://boardgamegeek.com/boardgame/123260/suburbia)
+## 17. [Suburbia](https://boardgamegeek.com/boardgame/123260/suburbia)
 ![](https://cf.geekdo-images.com/imagepage/img/V54Z9j1TvXZORDQh1Z8EBjx1m8A=/fit-in/900x600/filters:no_upscale()/pic1355470.jpg)
 
 ###	[Suburbia Inc.](https://boardgamegeek.com/boardgame/145196/suburbia-inc)
@@ -64,6 +61,9 @@ Boardgames I currently own
 
 ###	[Suburbia 5★](https://boardgamegeek.com/boardgame/171007/suburbia-5)
 ![](https://cf.geekdo-images.com/imagepage/img/Mqw9uXfQD0mG-oCxd7gNcHGwoI0=/fit-in/900x600/filters:no_upscale()/pic2434952.png)
+
+## 18. [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+![](https://cf.geekdo-images.com/imagepage/img/87g2sg-5UVxKwlB6NToeFVNjh3U=/fit-in/900x600/filters:no_upscale()/pic2616052.jpg)
 
 # KickStarter
 
